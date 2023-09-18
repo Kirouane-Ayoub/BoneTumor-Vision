@@ -1,0 +1,6 @@
+zipfile
+gdown
+streamlit
+Pillow
+numpy
+tensorflow
